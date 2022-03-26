@@ -1,0 +1,7 @@
+{
+  "name": "RakeController",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
